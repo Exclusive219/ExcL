@@ -25,4 +25,34 @@ img{
 .img2{
     border-radius: 0;
 }
-
+#container{
+    widht:auto;
+}
+#header{
+    background: #5801fc;
+    height: 150px;
+}
+#navigation{
+    background: #ccfd19;
+    height: 40px;
+}
+#content{
+    background: #f0093b;
+    float: left;
+    width: 75%;
+    height: 250px;
+}
+#sidebar{
+    background: #f009f0;
+    float: right;
+    width: 25%;
+    height: 250px;
+}
+#clear{
+    clear: both;
+}
+#foother{
+    margin-top: 4px;
+    background: #09c2f0;
+    height: 150px;
+}
