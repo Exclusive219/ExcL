@@ -1,5 +1,6 @@
-ul{
+ol{
     background: #a30000;
+    list-style-type: style type upper-roman latin 16px;
     list-style: square;
     padding: 15px;
     margin: 5px;
@@ -7,6 +8,7 @@ ul{
 }
 li{
     background: #00b436;
+    list-style-type: style type upper-roman latin 16px;
     padding: 15px;
     margin: 5px;
 
