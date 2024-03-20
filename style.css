@@ -18,10 +18,11 @@ li:hover{
 img{
     border-top-left-radius: 40px;
     border-bottom-right-radius: 40px;
-    
-}
-img{
     height: 500px;
     width: 500px;
-
 }
+
+.img2{
+    border-radius: 0;
+}
+
