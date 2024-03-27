@@ -5,10 +5,10 @@ footer{
     background-color: #0CC0DF;
 }
 
-.footer-colums{
+.footer-columns{
     display: flex;
 }
-.footer-colums{
+.footer-column{
     flex: 50%;
     margin: 200px;
 }
