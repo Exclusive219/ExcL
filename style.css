@@ -1,6 +1,9 @@
 header{
     background-color: #0CC0DF;
 }
+footer{
+    background-color: #0CC0DF;
+}
 
 .footer-colums{
     display: flex;
