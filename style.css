@@ -54,7 +54,7 @@ main{
 
 #menu1 > ul::after{
     display: block;
-    width: 1000%;
+    width: 100%;
     height: 0px;
     clear: both;
     content: " ";
