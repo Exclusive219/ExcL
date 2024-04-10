@@ -21,6 +21,11 @@ main{
     padding: 10px;
     background-color: antiquewhite  ;
 }
+.sliderimg{
+    width: 100px;
+    height: 300px;
+}
+
 .post{
     background-color: aliceblue ;
     padding: 20px;
